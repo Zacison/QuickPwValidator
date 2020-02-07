@@ -1,0 +1,48 @@
+body {
+    position: relative;
+    background-color: whitesmoke;
+}
+
+.form {
+    margin: 0 auto;
+    text-align: center;  
+     
+}
+
+.form__div p{
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 1rem;
+}
+
+.submit {
+    margin-top: 1rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 50px;
+    background-color: grey;
+}
+
+.form p {
+    font-size: 40px;
+    text-align: center;
+}
+
+.form p.usertext {
+    font-size: 20px;
+    color: red;
+}
+
+.form p.passtext {
+    font-size: 20px;
+    color: red;
+}
+
+.form input {
+    padding: 10px 0;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
